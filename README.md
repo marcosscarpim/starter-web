@@ -16,3 +16,7 @@ Sample website with plenty of files for demos
 It is not made for that, but OKAY
 
 ## How To Contribute
+
+### Copyright
+
+2014 Git.Training
