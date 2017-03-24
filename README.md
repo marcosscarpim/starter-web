@@ -5,10 +5,14 @@ Just a test in fact...
 
 ## Introduction
 
+Testing, testing, testing...
+
 ## Purpose
 
 Sample website with plenty of files for demos
 
 ## Deployment
+
+It is not made for that, but OKAY
 
 ## How To Contribute
